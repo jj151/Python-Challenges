@@ -1,8 +1,8 @@
 # Python-Challenges
-Repository of some programming challenges I solved. 
-
-## [Desafio 1: CEP Challenge](https://github.com/nunesdaniel/Python-Challenges/tree/master/CEP-Challenge/Desafio)
 ---
+Repository of some programming challenges I solved. 
+---
+## [Desafio 1: CEP Challenge](https://github.com/nunesdaniel/Python-Challenges/tree/master/CEP-Challenge/Desafio)
 #### Vamos criar uma busca de CEP em python, as regras são as seguintes:
  - Você vai desenvolver seguindo o que você já sabe, caso queira aprender algo, fique a vontade;
  - Não importa se você vai fazer via web ou linha de comando passando argumento ou com o CEP armazenado em uma variavel, seguimos apenas o objetivo final;
