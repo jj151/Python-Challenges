@@ -1,0 +1,5 @@
+# CONFIG FILES - PYCHARM PROFESSIONAL
+*.idea/
+
+# OFF
+*venv/
