@@ -10,3 +10,4 @@ dado_retorno = {'tipo_logradouro': '', 'logradouro': cep_info['logradouro'], 'es
                 format(cep_info['logradouro'], cep_info['bairro'], cep_info['localidade'], cep_info['uf'])}
 
 print(dado_retorno)
+# A Api não retorna somente o tipo, apenas ele completo.
