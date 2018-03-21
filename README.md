@@ -30,3 +30,6 @@ Repository of some programming challenges I solved.
  **Resultado do Desafio 1**
  ![cep](https://raw.githubusercontent.com/nunesdaniel/Python-Challenges/master/img/print.png)
  
+---
+
+## [Desafio 2: Em breve](https://github.com/nunesdaniel/Python-Challenges)
